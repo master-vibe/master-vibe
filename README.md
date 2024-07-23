@@ -15,7 +15,6 @@ I have been learning to code for 5 years, and topics and problems in computer sc
 * ✉️  You can contact me at (mailto:ashique.learnitallone@gmail.com)
 * 🧠  I'm learning Cybersecurity, DSA.
 * 🤝  I'm open to collaborating on Anything interesting to You!
-* ⚡  Am an Otoko...
 </div>
 
 
