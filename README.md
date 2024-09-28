@@ -57,3 +57,5 @@ I have been learning to code for 5 years, and topics and problems in computer sc
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
 </div>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=master-vibe&theme=react-dark)
