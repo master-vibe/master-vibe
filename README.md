@@ -11,8 +11,8 @@ Computer Science Engineer | Coder by Heart
 I have been learning to code for 5 years, and topics and problems in computer science are some things that keep me curious and motivated throughout my life apart from food, I am glad that the Computer Science field is profound and adverse pathways to choose from. Learning new subject matter and challenging myself is what defines me, and I would like to continue on this path to reach some kind of Enlightenment (Kidding), I will continue cause it feels good what else do I need right? This is Ashique Mohammad F let's see how everything goes.
 
 * 🌍  I'm based in Kerala, India.
-* ✉️  You can contact me at (mailto:ashique.learnitallone@gmail.com)
-* 🧠  I'm learning Cybersecurity, DSA.
+* ✉️  You can contact me at (ashique.learnitallone@gmail.com)
+* 🧠  I'm learning Java Backend, DSA.
 * 🤝  I'm open to collaborating on Anything interesting to You!
 </div>
 
